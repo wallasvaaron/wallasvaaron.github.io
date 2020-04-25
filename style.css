@@ -127,4 +127,7 @@ p {
 
 .post-container:nth-child(even){
   background-color: lightgray;
+  .post-date{
+  color: white;
+  }
 }
